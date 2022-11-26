@@ -1,5 +1,7 @@
 # Fossil Fuels and It's Impact on Temperatures
 
+### [Main group GitHub](https://github.com/sherryli1116/finalproject-group15)
+
 ## A. Presentation 
 
 **[Presentation can be found here](https://docs.google.com/presentation/d/1LIIxNE26tEv9yMHcSfNOcbrMop_bMVocx2V1dUVHUj8/edit#slide=id.p)**
